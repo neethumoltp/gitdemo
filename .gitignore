@@ -2,4 +2,5 @@ report.html
 target/
 *.log
 **/*.jar
+task.xml
 
