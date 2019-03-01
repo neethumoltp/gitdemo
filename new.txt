@@ -27,3 +27,4 @@ Stashed changes
 =======
 >>>>>>> parent of 5191616... stash demo
 new.txt
+new.txt
