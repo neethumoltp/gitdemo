@@ -1,7 +1,10 @@
 ertrrgfg
 
 ffsdfg
+<<<<<<< HEAD
  Updated upstream
 stash demo - 1
 stash demo
 Stashed changes
+=======
+>>>>>>> parent of 5191616... stash demo
