@@ -1,4 +1,7 @@
 ertrrgfg
 
 ffsdfg
+ Updated upstream
 stash demo - 1
+stash demo
+Stashed changes
